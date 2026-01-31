@@ -60,13 +60,4 @@ Frontend-focused developer building modern web applications and AI-powered tools
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=quantum0059&theme=dark&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=quantum0059&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quantum0059&theme=dark&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=quantum0059&icon=0&color=0)
