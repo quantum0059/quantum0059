@@ -5,20 +5,10 @@ Frontend-focused developer building modern web applications and AI-powered tools
 ---
 
 ## 💫 About Me
-- 🔭 **Currently working on**
-  - **PrepWise** — AI-powered voice-based mock interview platform with detailed feedback  
-    _Private repository · Active development_
-  - **TrackVerse** — performance and progress tracking system  
-    _Private repository_
-
-- 🌱 **Currently learning**  
-  Next.js (App Router), React, TypeScript, AI integrations, and system design fundamentals
-
-- 💬 **Ask me about**  
-  Frontend architecture, AI-powered apps, Firebase auth, interview prep platforms
-
-- ⚡ **Fun fact**  
-  I enjoy designing systems that feel as close to real-world experiences as possible
+- 🔭 Working on **PrepWise** (AI voice-based mock interviews) & **TrackVerse** (performance tracking)
+- 🌱 Learning **Next.js (App Router), React, TypeScript, AI integrations, system design**
+- 💬 Ask me about **frontend architecture, AI-powered apps, Firebase auth**
+- ⚡ I enjoy designing systems that feel close to real-world experiences
 
 ---
 
@@ -59,5 +49,3 @@ Frontend-focused developer building modern web applications and AI-powered tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
