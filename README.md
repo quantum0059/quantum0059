@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Shivam
+## 👋 Hi, I’m Shivam
 
-Frontend-focused developer building modern web applications and AI-powered tools.
+I’m a full-stack developer who enjoys working across frontend, backend, and AI integrations.
 
 ---
 
-## 💫 About Me
+### 💫 About Me
 - 🔭 Working on **PrepWise** (AI voice-based mock interviews) & **TrackVerse** (performance tracking)
 - 🌱 Learning **Next.js (App Router), React, TypeScript, AI integrations, system design**
 - 💬 Ask me about **frontend architecture, AI-powered apps, Firebase auth**
