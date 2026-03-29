@@ -5,7 +5,6 @@ I’m a full-stack developer who enjoys working across frontend, backend, and AI
 ---
 
 ### 💫 About Me
-- 🔭 Working on **PrepWise** (AI voice-based mock interviews) & **TrackVerse** (performance tracking)
 - 🌱 Learning **Next.js (App Router), React, TypeScript, AI integrations, system design**
 - 💬 Ask me about **frontend architecture, AI-powered apps, Firebase auth**
 - ⚡ I enjoy designing systems that feel close to real-world experiences
